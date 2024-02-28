@@ -2,7 +2,7 @@
 Title: Car Sales Data Analysis Project
 
 Description:
-This project entails analyzing a comprehensive dataset of car sales data, comprising over 400,000 rows, stored in a CSV file. The dataset encompasses various aspects of car sales transactions, including details such as the year, month, day, car specifications (year, make, model), salesperson information, customer details, sale prices, and commissions earned.
+This project entails analyzing a comprehensive dataset of car sales data, comprising over 350,000 rows, stored in a CSV file. The dataset encompasses various aspects of car sales transactions, including details such as the year, month, day, car specifications (year, make, model), salesperson information, customer details, sale prices, and commissions earned.
 
 Objective:
 The primary goal of this project is to gain insights and extract valuable information from the car sales data through thorough analysis. By exploring trends and patterns within the dataset, the project aims to provide actionable insights to stakeholders in the automotive industry, including car manufacturers, dealerships, and sales teams.
